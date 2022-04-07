@@ -2,7 +2,7 @@ import torch
 import argparse
 import torch.optim as optim
 from torch.utils.data import DataLoader
-import model2 as model
+import model
 import torch.nn as nn
 from utils import *
 from dataset import MyDataset

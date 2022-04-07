@@ -1,4 +1,4 @@
-# Welcome to GitHub
+
 ## Generative-Priors-for-Blind-Super-Resolution
 
 Prior information is very important in SR problems, and SR methods with MAP

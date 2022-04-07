@@ -1,6 +1,6 @@
 import argparse
 from torch.utils.data import DataLoader
-import model2 as model
+import model
 import torch.nn as nn
 import torch.nn.functional as F
 from utils import *
